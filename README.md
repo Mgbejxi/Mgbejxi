@@ -1,5 +1,5 @@
     
-<h1 align="left">Hi 👋, I'm Mgbeji Maxwell</h1><br>
+<h1 align="left">Hi 👋, I'm Mgbeji Uche</h1><br>
 
 
 <h3 align="left">A Frontend Engineer with passion for learning, programming and tecnology:  I specialise in designing interactive and responsive websites 🚀</h3>
