@@ -9,7 +9,7 @@
         <p>• 📚 I’m currently learning: React.js, Typescript and working to get my first row as a developer.</b></p>
         <p>• 😀 <b>I love knowledge and learning new things</b></p>
         <p>• ℹ️  Hobbies: <b>Music 🎧 | Exercise 🏃 | Chess </b></p>
-        <p>•⚡ Fun fact: <b>I can draw and paint the moon</b></p>
+        <p>•⚡ Fun fact: <b>I can draw and paint</b></p>
         <p>• 💬 Ask me about: <b>anything</b></p>
         <p>• 📫 How to reach me: <b>mgbejiobassy@gmail.com</b></p>
 </div><br>
